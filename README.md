@@ -1,2 +1,2 @@
 # FE07B_progetto_finale
-LOGIN = USER: ADMIN; PASSWORD: 111111
+Login = User: admin; Password: 111111
